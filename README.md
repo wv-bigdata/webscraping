@@ -1,5 +1,12 @@
 # **Web Scraping**
 
+---
+
+### Creador:
+- Wilbert Vong
+
+---
+
 ## **¿Qué es Web Scraping?**
 Este repositorio contiene scripts de webscraping diseñado para extraer información de páginas web específicas. El webscraping es una técnica utilizada para recopilar datos de sitios web de manera automatizada.
 
